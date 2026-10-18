@@ -1,4 +1,4 @@
-# DroneDD — DJI Mini 3 Pro FCC/CE mode switch
+# FCC-BOX — DJI Mini 3 Pro FCC/CE mode switch
 
 Session-scoped FCC toggle for the DJI Mini 3 Pro (WM162) over the aircraft's USB DUML channel. The RC Pro screen flips to FCC live; an aircraft power-cycle reverts. Confirmed on Mini 3 Pro; other DJI models unconfirmed.
 
